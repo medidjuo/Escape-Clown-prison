@@ -1,32 +1,34 @@
 {
-         "our_ads1_activation":"false",
-    "our_ads1_image_url":"https://raw.githubusercontent.com/TestGta/Test/main/1.png",
-    "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com",
+        "our_ads1_activation":"false",
+    "our_ads1_image_url":"https://raw.githubusercontent.com/medidjuo/DigitalJaxy-Cmpt5/main/111.png",
+    "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.police.car.crush.simulator",
 
     "our_ads2_activation":"false",
-    "our_ads2_image_url":"https://raw.githubusercontent.com/TestGta/Test/main/2.png",
-    "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com",
+    "our_ads2_image_url":"https://raw.githubusercontent.com/medidjuo/DigitalJaxy-Cmpt5/main/222.png",
+    "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com.police.car.crush.simulator",
 
     "our_ads3_activation":"false",
-    "our_ads3_image_url":"https://raw.githubusercontent.com/TestGta/Test/main/3.png",
-    "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com",
+    "our_ads3_image_url":"https://raw.githubusercontent.com/medidjuo/DigitalJaxy-Cmpt5/main/444.png",
+    "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com.police.car.crush.simulator",
 
-    "our_ads_inter_activation":"false",
-    "our_ads_inter_image_url":"https://raw.githubusercontent.com/TestGta/Test/main/inter1.png",
-    "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com",
+    "our_ads_inter_activation":"true",
+    "our_ads_inter_image_url":"https://raw.githubusercontent.com/medidjuo/D-DigitalPrison-Cmpt4/main/333.png",
+    "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com.EscapeClown.DigitalCircusPrison",
 
   "admob_app_id": "",
   "admob_banner": "",
   "admob_interstitial": "",
   "admob_rewarded_video": "",
 
-  "unity_app_id": "",
+  "unity_app_id": "0000000000",
   "unity_banner": "Banner_Android",
   "unity_interstitial": "Interstitial_Android",
   "unity_rewarded_video": "Rewarded_Android",
 
-  "appLovin_app_id": "",
-  "appLovin_banner": "00000000000",
+  "appLovin_app_id": "0000000000",
+  "appLovin_banner": "00000000",
   "appLovin_interstitial": "00000000000",
-  "appLovin_rewarded_video": "00000000000"
+  "appLovin_rewarded_video": "000000000000"
+
+      
 }
